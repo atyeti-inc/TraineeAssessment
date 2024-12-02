@@ -7,6 +7,18 @@
 # BlueJ files
 *.ctxt
 
+# IDE-specific files
+.vscode/
+.vscode-insiders/
+
+# Build system files
+target/
+build/
+
+# Test results
+**/target/test-classes/
+**/target/test-reports/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
